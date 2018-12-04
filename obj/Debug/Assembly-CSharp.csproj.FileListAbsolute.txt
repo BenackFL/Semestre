@@ -1,0 +1,2 @@
+C:\Users\Belzec\Documents\Chiby Jump\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Belzec\Documents\Chiby Jump\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
